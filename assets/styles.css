@@ -1,0 +1,92 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Roboto;
+    }
+
+.Tour-site{
+    border: 1px solid;
+    height: 640px;
+    background: url(img/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header div{
+    color: white;
+}
+
+.header div:nth-child(2){
+    display: flex;
+    color: black;
+}
+
+
+.yellow{
+    border: 1px solid;
+    height: 520px;
+    background-color: rgba(223, 223, 4, 0.719);
+    width: 50%;
+    opacity: 10px;
+    float: right;
+}
+
+.yellow div{
+    border: 1px solid;
+    width: 50%;
+    margin: 290px 0 0 340px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.footer{
+    margin-top: 530px;
+    display: flex;
+    border: 1px solid;
+    justify-content: space-between;
+}
+
+.footer div{
+    color: white;
+}
+
+.footer div:nth-child(2){
+    color: black;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
